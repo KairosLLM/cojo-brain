@@ -19,6 +19,12 @@
 <description>The Fed blinked, the bond market didn't, and a $45bn fund went under</description>
 <content:encoded><![CDATA[<p><em>Synthesized from what Benjamin Cowen and Jordi Visser published this week. They have not spoken to each other and did not participate. Quotes are verbatim and linked; everything else is labelled paraphrase.</em></p>
 <p><em>Backfilled on 5 August 2026. This edition was not written contemporaneously. It uses only material published on or before 2 August and market prices as of that date, but it is not a live edition and should not be read as one. Jordi's Pomp appearance was imported by hand from a supplied transcript; its speaker labels come from diarization, verified against the host's own phrasing.</em></p>
+<ul>
+<li><strong>Ben:</strong> called the 29 July hold a day ahead and says the freed long end takes the 10-year toward 5%.</li>
+<li><strong>Jordi:</strong> the worst four-day factor unwind on record was a cleansing event, not a beginning.</li>
+<li><strong>The tape:</strong> the 10-year-reaches-4.8% market repriced from 36.5% to 69.5% in five days.</li>
+<li><strong>The record:</strong> Ben 1-0 with 4 open. Jordi 0-0 with 5 open. <a href="https://kairosllm.github.io/cojo-brain/scorecard.html">Scorecard</a></li>
+</ul>
 <hr/>
 <h2>The pitch</h2>
 <p><strong>Ben called the Fed meeting the day before it happened, in public, with a mechanism attached.</strong> On 28 July:</p>
@@ -31,11 +37,11 @@
 <blockquote><p>"what I'm saying is I think we're about to see a 10 to 20% drop in stocks"</p></blockquote>
 <blockquote><p>— <a href="https://www.youtube.com/watch?v=TOKUXlPBhOs&amp;t=559s">Ben, 28 July, 9:19</a></p></blockquote>
 <p>The Fed held at 3.75% on 29 July. The next day he was explicit that the mechanism had fired:</p>
-<blockquote><p>"the bond vigilantes are revoling"</p></blockquote>
+<blockquote><p>"the bond vigilantes are revol[t]ing"</p></blockquote>
 <blockquote><p>— <a href="https://www.youtube.com/watch?v=uJ0DsQCvY7s&amp;t=94s">Ben, 29 July, 1:34</a></p></blockquote>
 <p>His post-meeting reading, paraphrased: the 30-year has been rejected at 5.1-5.2% since October 2023 and is pressing it again, the 2-year yield is the best available proxy for the neutral rate, the 2-year overtook the fed funds rate back in March, and therefore policy is no longer restrictive even though nothing changed. He is blunt that the causality runs one way, that the market tells the Fed what to do rather than the reverse.</p>
 <p><strong>Jordi's week ended with something much larger than a Fed meeting.</strong> His 2 August video is about the late-July unwind, and his central claim is a diagnosis:</p>
-<blockquote><p>"I do think there's a high probability that this was a uh a cleansing event."</p></blockquote>
+<blockquote><p>"I do think there's a high probability that this was a cleansing event."</p></blockquote>
 <blockquote><p>— <a href="https://www.youtube.com/watch?v=VVfTS50v91I&amp;t=1s">Jordi, 2 August, 0:01</a></p></blockquote>
 <p>The numbers behind it: the Goldman Sachs VIP index of crowded hedge fund positions was down 12% relative to the S&amp;P for July, and</p>
 <blockquote><p>"Seven of the 12% occurred in the four days from Friday of last week until Wednesday of this week."</p></blockquote>
@@ -54,12 +60,13 @@
 <blockquote><p>— <a href="https://www.youtube.com/watch?v=VVfTS50v91I&amp;t=1117s">Jordi, 2 August, 18:37</a></p></blockquote>
 <hr/>
 <h2>The backtrack</h2>
-<p>Three claims were open going into this week, all from 26 July.</p>
-<p><strong>Ben, 26 July: Bitcoin gets rejected at the bear market resistance band and trades down through August-September.</strong> Still open, horizon 30 September. Bitcoin ended this week around 63-64k, below the band, and has not broken above it. Nothing has falsified it and nothing has confirmed it. The market moved his way: "Bitcoin down to 60,000 before 2027" rose from 75.0% to 82.5% across the week.</p>
-<p><strong>Ben, 26 July: Bitcoin posts a red August.</strong> Still open, horizon 1 September. August had not started when the week closed.</p>
-<p><strong>Jordi, 26 July: no straight-line recovery in tech momentum; the second half is chop.</strong> Still open, horizon 31 December, and looking stronger. He said it after an 8% momentum bounce week. What followed was the worst four-day factor move on record. A bounce that immediately gave way to a historic unwind is exactly the not-a-V-shaped-recovery he described.</p>
-<p>Nothing is gradeable yet. Both are 0-for-0 with three claims running.</p>
-<p><strong>One call did resolve inside the week, and it was not in the ledger.</strong> Ben's 28 July prediction that the Fed would hold on 29 July and that the long end would revolt was made one day ahead and resolved the next. It landed on both legs. It is entered into the ledger this week and marked, rather than quietly credited, because a claim made and resolved inside a single week still belongs on the scorecard.</p>
+<p>Four claims were open going into this week, all from the 26 July weekend.</p>
+<p><strong>Ben, 26 July: Bitcoin gets rejected at the bear market resistance band and trades down through August-September.</strong> Still open, horizon 30 September. Bitcoin ended this week around 63-64k, below the band, and has not broken above it. Nothing has falsified it and nothing has confirmed it. The market moved his way: <a href="https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027">"Bitcoin down to 60,000 before 2027"</a> rose from 75.0% to 82.5% across the week. (<a href="https://kairosllm.github.io/cojo-brain/scorecard.html#2026-07-26-cowen-01">2026-07-26-cowen-01</a>)</p>
+<p><strong>Ben, 26 July: Bitcoin posts a red August.</strong> Still open, horizon 1 September. August had not started when the week closed. (<a href="https://kairosllm.github.io/cojo-brain/scorecard.html#2026-07-26-cowen-02">2026-07-26-cowen-02</a>)</p>
+<p><strong>Jordi, 26 July: no straight-line recovery in tech momentum; the second half is chop.</strong> Still open, horizon 31 December, and looking stronger. He said it after an 8% momentum bounce week. What followed was the worst four-day factor move on record. A bounce that immediately gave way to a historic unwind is exactly the not-a-V-shaped-recovery he described. (<a href="https://kairosllm.github.io/cojo-brain/scorecard.html#2026-07-26-visser-01">2026-07-26-visser-01</a>)</p>
+<p><strong>Jordi, 25 July: the 7-8x phase of the AI trade is finished.</strong> Still open, horizon 31 December. Said on Pomp the day before his Sunday video. A week in which the most crowded AI positions produced the worst factor move on record is consistent with it, but one week proves nothing on a December horizon. (<a href="https://kairosllm.github.io/cojo-brain/scorecard.html#2026-07-25-visser-02">2026-07-25-visser-02</a>)</p>
+<p>Nothing is gradeable yet. Both are 0-for-0 with four claims running.</p>
+<p><strong>One call did resolve inside the week, and it was not in the ledger.</strong> Ben's 28 July prediction that the Fed would hold on 29 July and that the long end would revolt was made one day ahead and resolved the next. It landed on both legs. It is entered into the ledger this week and marked, rather than quietly credited, because a claim made and resolved inside a single week still belongs on the scorecard. (<a href="https://kairosllm.github.io/cojo-brain/scorecard.html#2026-07-28-cowen-03">2026-07-28-cowen-03</a>)</p>
 <hr/>
 <h2>The synthesis</h2>
 <p>This is the week the two of them were reading genuinely different markets, and both were right about the thing they were watching.</p>
@@ -71,17 +78,17 @@
 <p>Both men also converged, separately, on a hawkish September. Ben expects the hike. Jordi noted, almost in passing, that Citadel Securities publicly called for a surprise hike from Kevin Warsh and that this landed in the same week as hyperscaler earnings and the momentum unwind, which is what made the week so violent for crowded positions.</p>
 <hr/>
 <h2>The third voice</h2>
-<p><strong>The bond market did exactly what Ben said it would, and the size of the move is the story.</strong> "10-year yield reaches 4.8% before 2027" went from <strong>36.5% to 69.5%</strong> across the week, up 33 points, including a 15-point jump in a single hour on Friday at 12:00Z. "Reaches 5.0%" doubled, from <strong>12.5% to 24.5%</strong>.</p>
-<table><thead><tr><th></th><th>19 Jul</th><th>26 Jul</th><th>2 Aug</th></tr></thead><tbody>
-<tr><td>10Y reaches 4.8%</td><td>21.0</td><td>36.5</td><td>69.5</td></tr>
-<tr><td>10Y reaches 5.0%</td><td>9.0</td><td>12.5</td><td>24.5</td></tr>
-<tr><td>10Y falls to 3.9%</td><td>26.7</td><td>10.1</td><td>6.0</td></tr>
+<p><strong>The bond market did exactly what Ben said it would, and the size of the move is the story.</strong> <a href="https://polymarket.com/event/how-high-will-10-year-treasury-yield-go-before-2027">"10-year yield reaches 4.8% before 2027"</a> went from <strong>36.5% to 69.5%</strong> across the week, up 33 points, including a 15-point jump in a single hour on Friday at 12:00Z. "Reaches 5.0%" doubled, from <strong>12.5% to 24.5%</strong>.</p>
+<table><thead><tr><th>market</th><th>open</th><th>close</th><th>change</th></tr></thead><tbody>
+<tr><td><a href="https://polymarket.com/event/how-high-will-10-year-treasury-yield-go-before-2027">10Y reaches 4.8%</a></td><td>36.5%</td><td>69.5%</td><td>+33.0</td></tr>
+<tr><td><a href="https://polymarket.com/event/how-high-will-10-year-treasury-yield-go-before-2027">10Y reaches 5.0%</a></td><td>12.5%</td><td>24.5%</td><td>+12.0</td></tr>
+<tr><td><a href="https://polymarket.com/event/how-low-will-10-year-treasury-yield-get-before-2027">10Y falls to 3.9%</a></td><td>10.1%</td><td>6.0%</td><td>-4.1</td></tr>
 </tbody></table>
 <p>Three weeks ago the crowd gave Ben's 10-year thesis a one-in-five chance. It now gives it better than two-in-three. He has been making this call for a long time without it paying, and it paid this week.</p>
-<p><strong>The Fed meeting itself is visible in the tape.</strong> "Any hike in 2026" fell from 70.5% to 67.5% on the week, but the interesting number is inside it: the largest single-hour move was <strong>-6.5 points at Wednesday 18:00Z</strong>, which is the FOMC decision. The crowd took hike odds down on the hold, then spent the rest of the week putting them back. The September market went the other way, <strong>53.5% to 59.5%</strong>, with a 6-point jump Friday at 21:00Z.</p>
+<p><strong>The Fed meeting itself is visible in the tape.</strong> <a href="https://polymarket.com/event/fed-rate-hike-in-2026">"Any hike in 2026"</a> fell from 70.5% to 67.5% on the week, but the interesting number is inside it: the largest single-hour move was <strong>-6.5 points at Wednesday 18:00Z</strong>, which is the FOMC decision. The crowd took hike odds down on the hold, then spent the rest of the week putting them back. The <a href="https://polymarket.com/event/fed-decision-in-september-762">September market</a> went the other way, <strong>53.5% to 59.5%</strong>, with a 6-point jump Friday at 21:00Z.</p>
 <p>So the market ended the week reading it the way Ben did: not this meeting, September instead.</p>
-<p><strong>"Zero cuts in 2026" rose to 88.5%.</strong> The easing cycle is, as far as the crowd is concerned, finished.</p>
-<p><strong>Equities recovered in the cross-asset market.</strong> "S&amp;P wins 2026" went from <strong>64.0% to 69.0%</strong>, reversing the prior week's fall. Bitcoin slipped to 14.5%. Notable because it happened during the worst factor unwind on record, which supports Jordi's framing that the damage was inside the market rather than to it.</p>
+<p><strong><a href="https://polymarket.com/event/how-many-fed-rate-cuts-in-2026">"Zero cuts in 2026"</a> rose to 88.5%.</strong> The easing cycle is, as far as the crowd is concerned, finished.</p>
+<p><strong>Equities recovered in the cross-asset market.</strong> <a href="https://polymarket.com/event/bitcoin-vs-gold-vs-sp-500-in-2026">"S&amp;P wins 2026"</a> went from <strong>64.0% to 69.0%</strong>, reversing the prior week's fall. Bitcoin slipped to 14.5%. Notable because it happened during the worst factor unwind on record, which supports Jordi's framing that the damage was inside the market rather than to it.</p>
 <hr/>
 <h2>The week ahead</h2>
 <ul>
@@ -102,6 +109,12 @@
 <description>The calm week, and what both of them think is coming after it</description>
 <content:encoded><![CDATA[<p><em>Synthesized from what Benjamin Cowen and Jordi Visser published this week. They have not spoken to each other and did not participate. Quotes are verbatim and linked; everything else is labelled paraphrase.</em></p>
 <p><em>Backfilled on 5 August 2026. This edition was not written contemporaneously. It uses only material published on or before 26 July and market prices as of that date, but it is not a live edition and should not be read as one. Jordi's Pomp appearance was imported by hand from a supplied transcript; its speaker labels come from diarization, verified against the host's own phrasing.</em></p>
+<ul>
+<li><strong>Ben:</strong> Bitcoin gets rejected at the bear market resistance band, and August and September are red.</li>
+<li><strong>Jordi:</strong> the easy-money phase of the AI trade is over, and the second half of the year is chop.</li>
+<li><strong>The tape:</strong> September hike odds jumped 17 points to 53.5% and neither of them led with it.</li>
+<li><strong>The record:</strong> week one. The ledger opens with four claims. <a href="https://kairosllm.github.io/cojo-brain/scorecard.html">Scorecard</a></li>
+</ul>
 <hr/>
 <h2>The pitch</h2>
 <p><strong>Both men opened on the same observation: this was a boring week.</strong> They took it in opposite directions.</p>
@@ -135,17 +148,17 @@
 <p>The genuine disagreement is about <strong>what the AI drawdown means</strong>. Ben barely mentions AI. His world is liquidity, seasonality, and the bond market. Jordi's entire frame is that AI is repricing terminal values and that this is a permanent change in market structure. If Ben is right, the coming weakness is a normal midterm-year correction that resets and resumes. If Jordi is right, something about the pricing of long-duration equity has changed and will not revert. Those imply very different recoveries.</p>
 <hr/>
 <h2>The third voice</h2>
-<p><strong>The Fed repriced hard toward a hike this week, and neither of them led with it.</strong> Polymarket's September meeting market moved from <strong>36.5% to 53.5%</strong> on a 25bp increase, up 17 points, with a 5-point jump in a single hour on Monday at 16:00Z. The broader "any hike in 2026" market went <strong>53.5% to 69.5%</strong>, up 16.</p>
+<p><strong>The Fed repriced hard toward a hike this week, and neither of them led with it.</strong> Polymarket's <a href="https://polymarket.com/event/fed-decision-in-september-762">September meeting market</a> moved from <strong>36.5% to 53.5%</strong> on a 25bp increase, up 17 points, with a 5-point jump in a single hour on Monday at 16:00Z. The broader <a href="https://polymarket.com/event/fed-rate-hike-in-2026">"any hike in 2026"</a> market went <strong>53.5% to 69.5%</strong>, up 16.</p>
 <p>That is the largest move on the board and it went almost unremarked by both. Ben's macro attention this week was on Bitcoin's chart; Jordi's was on earnings and China. The crowd spent the week deciding the Fed is going to hike.</p>
-<p><strong>The long end moved with it.</strong> "10-year yield hits 4.8% before 2027" went from <strong>21.0% to 36.5%</strong>, up 15.5, with an 8-point jump Thursday at 15:00Z. On the other side, "10-year gets down to 3.9%" collapsed from <strong>26.7% to 10.1%</strong>. The market spent the week deleting the easing scenario.</p>
-<table><thead><tr><th></th><th>open</th><th>close</th><th>change</th></tr></thead><tbody>
-<tr><td>Sept 25bp hike</td><td>36.5</td><td>53.5</td><td>+17.0</td></tr>
-<tr><td>Any hike in 2026</td><td>53.5</td><td>69.5</td><td>+16.0</td></tr>
-<tr><td>10Y reaches 4.8%</td><td>21.0</td><td>36.5</td><td>+15.5</td></tr>
-<tr><td>10Y falls to 3.9%</td><td>26.7</td><td>10.1</td><td>-16.6</td></tr>
+<p><strong>The long end moved with it.</strong> <a href="https://polymarket.com/event/how-high-will-10-year-treasury-yield-go-before-2027">"10-year yield hits 4.8% before 2027"</a> went from <strong>21.0% to 36.5%</strong>, up 15.5, with an 8-point jump Thursday at 15:00Z. On the other side, <a href="https://polymarket.com/event/how-low-will-10-year-treasury-yield-get-before-2027">"10-year gets down to 3.9%"</a> collapsed from <strong>26.7% to 10.1%</strong>. The market spent the week deleting the easing scenario.</p>
+<table><thead><tr><th>market</th><th>open</th><th>close</th><th>change</th></tr></thead><tbody>
+<tr><td><a href="https://polymarket.com/event/fed-decision-in-september-762">Sept 25bp hike</a></td><td>36.5%</td><td>53.5%</td><td>+17.0</td></tr>
+<tr><td><a href="https://polymarket.com/event/fed-rate-hike-in-2026">Any hike in 2026</a></td><td>53.5%</td><td>69.5%</td><td>+16.0</td></tr>
+<tr><td><a href="https://polymarket.com/event/how-high-will-10-year-treasury-yield-go-before-2027">10Y reaches 4.8%</a></td><td>21.0%</td><td>36.5%</td><td>+15.5</td></tr>
+<tr><td><a href="https://polymarket.com/event/how-low-will-10-year-treasury-yield-get-before-2027">10Y falls to 3.9%</a></td><td>26.7%</td><td>10.1%</td><td>-16.6</td></tr>
 </tbody></table>
-<p><strong>Equities lost ground in the cross-asset market.</strong> "S&amp;P wins 2026" fell <strong>68.5% to 63.5%</strong>. Bitcoin was flat at 16.0%, gold flat at 18.0%. The crowd took 5 points off the S&amp;P in a week Jordi described as quiet, which is a small hint that the quiet was not as benign as the index made it look.</p>
-<p><strong>One caveat on Bitcoin, stated rather than buried.</strong> "Bitcoin hits down to 60,000 before 2027" shows a move from 31.5% to 75.5% this week, including a 44.5-point jump in one hour on Tuesday. A 44-point hourly move on a market this size is far more likely to be a listing or liquidity artifact than a genuine repricing, so it is not treated as a signal here. The level, roughly 75%, is the usable number: the crowd broadly expects the lower move Ben is describing.</p>
+<p><strong>Equities lost ground in the cross-asset market.</strong> <a href="https://polymarket.com/event/bitcoin-vs-gold-vs-sp-500-in-2026">"S&amp;P wins 2026"</a> fell <strong>68.5% to 63.5%</strong>. Bitcoin was flat at 16.0%, gold flat at 18.0%. The crowd took 5 points off the S&amp;P in a week Jordi described as quiet, which is a small hint that the quiet was not as benign as the index made it look.</p>
+<p><strong>One caveat on Bitcoin, stated rather than buried.</strong> <a href="https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027">"Bitcoin hits down to 60,000 before 2027"</a> shows a move from 31.5% to 75.5% this week, including a 44.5-point jump in one hour on Tuesday. A 44-point hourly move on a market this size is far more likely to be a listing or liquidity artifact than a genuine repricing, so it is not treated as a signal here. The level, roughly 75%, is the usable number: the crowd broadly expects the lower move Ben is describing.</p>
 <hr/>
 <h2>The week ahead</h2>
 <ul>

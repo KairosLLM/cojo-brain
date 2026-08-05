@@ -1,8 +1,10 @@
 <!doctype html><html lang=en><head><meta charset=utf-8>
 <meta name=viewport content="width=device-width,initial-scale=1">
 <title>CoJo Brain</title><style>
-:root{--bg:#0e1116;--fg:#e8eaed;--dim:#9aa4b2;--line:#242a33;--accent:#7aa2f7}
-@media(prefers-color-scheme:light){:root{--bg:#fff;--fg:#1a1d21;--dim:#5b6472;--line:#e3e6ea;--accent:#2f5fd0}}
+:root{--bg:#0e1116;--fg:#e8eaed;--dim:#9aa4b2;--line:#242a33;--accent:#7aa2f7;
+ --landed:#3fb27f;--missed:#e5534b;--partial:#d29922}
+@media(prefers-color-scheme:light){:root{--bg:#fff;--fg:#1a1d21;--dim:#5b6472;
+ --line:#e3e6ea;--accent:#2f5fd0;--landed:#1a7f4b;--missed:#c62828;--partial:#9a6700}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--fg);
  font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
@@ -24,5 +26,18 @@ blockquote{margin:1.2rem 0;padding-left:1rem;border-left:3px solid var(--accent)
 code{background:var(--line);padding:.1rem .3rem;border-radius:3px;font-size:.9em}
 hr{border:0;border-top:1px solid var(--line);margin:2rem 0}
 .back{display:inline-block;margin-bottom:1.5rem;font-size:.9rem}
+.rec{color:var(--dim);font-size:.9rem;margin:0 0 1.8rem}
+ul.idx .dk{display:block;color:var(--dim);font-size:.92rem;margin:.2rem 0 .15rem}
+table.claims td{white-space:normal}
+table.claims td:nth-child(3),table.claims td:nth-child(4),
+table.claims td:nth-child(5){white-space:nowrap}
+table.claims .q{color:var(--dim);font-size:.92em;margin-top:.25rem}
+.st{font-weight:600}
+.st-landed{color:var(--landed)}.st-missed{color:var(--missed)}
+.st-partial{color:var(--partial)}.st-open{color:var(--accent)}.st-expired{color:var(--dim)}
+tr:target td{background:rgba(122,162,247,.14)}
+.nav2{display:flex;justify-content:space-between;gap:1rem;font-size:.9rem;
+ border-top:1px solid var(--line);margin-top:2.6rem;padding-top:1rem}
+.nav2 span:last-child{text-align:right}
 </style></head>
-<body><div class=wrap><h1>CoJo Brain</h1><p class=tag>Benjamin Cowen, Jordi Visser, and the prediction markets — weekly.</p><p class=note>Synthesized from what Benjamin Cowen and Jordi Visser publish. They have not spoken to each other and do not participate. Quotes are verbatim and linked.</p><p><a href="feed.xml">RSS</a></p><ul class=idx><li><a href="2026-08-02-sunday.html">The Fed blinked, the bond market didn't, and a $45bn fund went under</a><span class=d>2026-08-02 &middot; sunday</span></li><li><a href="2026-07-26-sunday.html">The calm week, and what both of them think is coming after it</a><span class=d>2026-07-26 &middot; sunday</span></li></ul></div></body></html>
+<body><div class=wrap><h1>CoJo Brain</h1><p class=tag>Benjamin Cowen, Jordi Visser, and the prediction markets — weekly.</p><p class=note>Synthesized from what Benjamin Cowen and Jordi Visser publish. They have not spoken to each other and do not participate. Quotes are verbatim and linked.</p><p class=rec>Ben 1-0, 4 open &middot; Jordi 0-0, 5 open &middot; <a href="scorecard.html">full scorecard</a> &middot; <a href="feed.xml">RSS</a></p><ul class=idx><li><a href="2026-08-02-sunday.html">The Fed blinked, the bond market didn't, and a $45bn fund went under</a><span class=dk>Ben called the Fed meeting the day before it happened, in public, with a mechanism attached.</span><span class=d>2026-08-02 &middot; sunday</span></li><li><a href="2026-07-26-sunday.html">The calm week, and what both of them think is coming after it</a><span class=dk>Both men opened on the same observation: this was a boring week.</span><span class=d>2026-07-26 &middot; sunday</span></li></ul></div></body></html>
