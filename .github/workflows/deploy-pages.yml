@@ -1,0 +1,43 @@
+# Deploy the static site to GitHub Pages via Actions.
+# Modelled on the alpha-funnel setup: publish.sh only pushes to main, this
+# workflow does the deploy. Deterministic, ~30s, and it leaves logs.
+#
+# TRACKED COPY. This file belongs at .github/workflows/deploy-pages.yml in the
+# publish repo (KairosLLM/cojo-brain, checked out at ~/Sites/cojo-brain), but the
+# gh token lacked the workflow scope to push it there. It lives here so the only
+# copy is not a gitignored file on one machine. Install steps: OPS.md, Publishing.
+name: Deploy Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Never run two deploys at once; let the newest win.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
